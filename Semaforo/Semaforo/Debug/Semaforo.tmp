@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\Debug\Semaforo.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Semaforo.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Semaforo.map</FILE>
+  <FILE>Semaforo.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INICIO><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\main.asm</FILE><LINE>51</LINE></INICIO>
+  <ANTI_REBOTE_INCREMENTO><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\main.asm</FILE><LINE>76</LINE></ANTI_REBOTE_INCREMENTO>
+  <ANTI_REBOTE_DECREMENTO><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\main.asm</FILE><LINE>100</LINE></ANTI_REBOTE_DECREMENTO>
+  <ANTI_REBOTE_INCREMENTO2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\main.asm</FILE><LINE>126</LINE></ANTI_REBOTE_INCREMENTO2>
+  <ANTI_REBOTE_DECREMENTO2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\main.asm</FILE><LINE>150</LINE></ANTI_REBOTE_DECREMENTO2>
+  <DELAY_INCREMENTO><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\main.asm</FILE><LINE>79</LINE></DELAY_INCREMENTO>
+  <INCREMENTAR_CONTADOR><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\main.asm</FILE><LINE>91</LINE></INCREMENTAR_CONTADOR>
+  <DELAY_DECREMENTO><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\main.asm</FILE><LINE>103</LINE></DELAY_DECREMENTO>
+  <DECREMENTAR_CONTADOR><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\main.asm</FILE><LINE>115</LINE></DECREMENTAR_CONTADOR>
+  <DELAY_INCREMENTO2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\main.asm</FILE><LINE>129</LINE></DELAY_INCREMENTO2>
+  <INCREMENTAR_CONTADOR2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\main.asm</FILE><LINE>141</LINE></INCREMENTAR_CONTADOR2>
+  <DELAY_DECREMENTO2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\main.asm</FILE><LINE>153</LINE></DELAY_DECREMENTO2>
+  <DECREMENTAR_CONTADOR2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Semaforo\Semaforo\main.asm</FILE><LINE>165</LINE></DECREMENTAR_CONTADOR2>
+ </LABELS>
+</ASSEMBLER_INFO>
